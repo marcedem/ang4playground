@@ -1,0 +1,20 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 0,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.renderIndentGuides": true,
+    "vsicons.projectDetection.autoReload": true,
+    "typescript.check.tscVersion": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "javascript.validate.enable": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.tabSize": 4,
+    "editor.autoIndent": true
+}
